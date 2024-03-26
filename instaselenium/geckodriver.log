@@ -1,0 +1,85 @@
+1691017044683	geckodriver	INFO	Listening on 127.0.0.1:51476
+1691017045690	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... --log-level=3" "-foreground" "-no-remote" "-profile" "/var/folders/rh/kjx8fzk91x7_h45k5jz8qfnc0000gn/T/rust_mozprofileZzVPw7"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1691017047234	Marionette	INFO	Marionette enabled
+1691017047874	Marionette	INFO	Listening on port 51487
+console.error: "Warning: unrecognized command line flag -no-sandbox\n"
+Read port: 51487
+1691017048040	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iYuK4/y6/l/en_US/BauBCCQnaJY.js?_nc_x=Ij3Wp8lg5Kz, line 1749: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iYuK4/y6/l/en_US/BauBCCQnaJY.js?_nc_x=Ij3Wp8lg5Kz, line 1752: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3ieCg4/yM/l/en_US/K2yLdiggqPl.js?_nc_x=Ij3Wp8lg5Kz, line 137: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+console.error: Region.sys.mjs: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 762))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 414))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+1691017197279	geckodriver	INFO	Listening on 127.0.0.1:51626
+1691017197302	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... --log-level=3" "-foreground" "-no-remote" "-profile" "/var/folders/rh/kjx8fzk91x7_h45k5jz8qfnc0000gn/T/rust_mozprofilesXXPoe"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1691017197674	Marionette	INFO	Marionette enabled
+1691017197913	Marionette	INFO	Listening on port 51637
+Read port: 51637
+console.error: "Warning: unrecognized command line flag -no-sandbox\n"
+1691017198793	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iYuK4/y6/l/en_US/BauBCCQnaJY.js?_nc_x=Ij3Wp8lg5Kz, line 1749: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iYuK4/y6/l/en_US/BauBCCQnaJY.js?_nc_x=Ij3Wp8lg5Kz, line 1752: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3ieCg4/yM/l/en_US/K2yLdiggqPl.js?_nc_x=Ij3Wp8lg5Kz, line 137: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+1691017281533	Marionette	INFO	Stopped listening on port 51487
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1691017376888	geckodriver	INFO	Listening on 127.0.0.1:51804
+1691017376909	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... --log-level=3" "-foreground" "-no-remote" "-profile" "/var/folders/rh/kjx8fzk91x7_h45k5jz8qfnc0000gn/T/rust_mozprofileg9ompe"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1691017377292	Marionette	INFO	Marionette enabled
+1691017377549	Marionette	INFO	Listening on port 51813
+console.error: "Warning: unrecognized command line flag -no-sandbox\n"
+Read port: 51813
+1691017378450	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1691017610011	geckodriver	INFO	Listening on 127.0.0.1:51996
+1691017610032	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... --log-level=3" "-foreground" "-no-remote" "-profile" "/var/folders/rh/kjx8fzk91x7_h45k5jz8qfnc0000gn/T/rust_mozprofileD9Ck7z"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1691017610575	Marionette	INFO	Marionette enabled
+1691017610691	Marionette	INFO	Listening on port 52007
+console.error: "Warning: unrecognized command line flag -no-sandbox\n"
+Read port: 52007
+1691017611490	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iYuK4/y6/l/en_US/BauBCCQnaJY.js?_nc_x=Ij3Wp8lg5Kz, line 1749: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iYuK4/y6/l/en_US/BauBCCQnaJY.js?_nc_x=Ij3Wp8lg5Kz, line 1752: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3ieCg4/yM/l/en_US/K2yLdiggqPl.js?_nc_x=Ij3Wp8lg5Kz, line 137: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+1691017804529	geckodriver	INFO	Listening on 127.0.0.1:52178
+1691017804552	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... --log-level=3" "-foreground" "-no-remote" "-profile" "/var/folders/rh/kjx8fzk91x7_h45k5jz8qfnc0000gn/T/rust_mozprofileHRRRzg"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1691017804935	Marionette	INFO	Marionette enabled
+1691017805173	Marionette	INFO	Listening on port 52189
+console.error: "Warning: unrecognized command line flag -no-sandbox\n"
+Read port: 52189
+1691017805746	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iYuK4/y6/l/en_US/BauBCCQnaJY.js?_nc_x=Ij3Wp8lg5Kz, line 1749: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iYuK4/y6/l/en_US/BauBCCQnaJY.js?_nc_x=Ij3Wp8lg5Kz, line 1752: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3ieCg4/yM/l/en_US/K2yLdiggqPl.js?_nc_x=Ij3Wp8lg5Kz, line 137: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+1691017879497	geckodriver	INFO	Listening on 127.0.0.1:52270
+1691017879521	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... --log-level=3" "-foreground" "-no-remote" "-profile" "/var/folders/rh/kjx8fzk91x7_h45k5jz8qfnc0000gn/T/rust_mozprofilezQOnTr"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1691017879898	Marionette	INFO	Marionette enabled
+1691017880151	Marionette	INFO	Listening on port 52281
+console.error: "Warning: unrecognized command line flag -no-sandbox\n"
+Read port: 52281
+1691017881005	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iYuK4/y6/l/en_US/BauBCCQnaJY.js?_nc_x=Ij3Wp8lg5Kz, line 1749: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iYuK4/y6/l/en_US/BauBCCQnaJY.js?_nc_x=Ij3Wp8lg5Kz, line 1752: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3ieCg4/yM/l/en_US/K2yLdiggqPl.js?_nc_x=Ij3Wp8lg5Kz, line 137: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+1691018329493	Marionette	INFO	Stopped listening on port 52007
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1691018331135	Marionette	INFO	Stopped listening on port 52189
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
